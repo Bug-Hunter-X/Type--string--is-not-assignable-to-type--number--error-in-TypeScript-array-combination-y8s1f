@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error related to type mismatches when combining arrays. The `bug.ts` file shows the error, while `bugSolution.ts` provides a solution using type guards or generics to handle different array types.
